@@ -1,0 +1,18 @@
+.label{
+    text-align: center;
+    font-weight: bold;
+}
+
+.response {
+    text-align: center;
+}
+
+#class1, #class2, #class3, #class4 {
+    display: inline-block;
+}
+
+#main {
+    margin: auto;
+    width: 20%;
+    height: 40%;
+}
